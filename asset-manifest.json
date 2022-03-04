@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-props-listing/static/css/main.af0f2e56.css",
+    "main.js": "/ra-props-listing/static/js/main.4304ac3c.js",
+    "static/js/787.04097c43.chunk.js": "/ra-props-listing/static/js/787.04097c43.chunk.js",
+    "index.html": "/ra-props-listing/index.html",
+    "main.af0f2e56.css.map": "/ra-props-listing/static/css/main.af0f2e56.css.map",
+    "main.4304ac3c.js.map": "/ra-props-listing/static/js/main.4304ac3c.js.map",
+    "787.04097c43.chunk.js.map": "/ra-props-listing/static/js/787.04097c43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0f2e56.css",
+    "static/js/main.4304ac3c.js"
+  ]
+}
