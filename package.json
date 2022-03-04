@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://TomSG03.github.io/ra-events-state-filter",
+  "homepage": "https://TomSG03.github.io/ra-props-listing",
   "eslintConfig": {
     "extends": [
       "react-app",

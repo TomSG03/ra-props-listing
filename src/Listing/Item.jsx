@@ -51,7 +51,6 @@ function Item({ item }) {
   )
 }
 
-Item.defaultProps = { item: []};
 Item.propTypes = { item: PropTypes.object };
 
 export default Item

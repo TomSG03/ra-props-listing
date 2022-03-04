@@ -1,6 +1,7 @@
 # React
-### [Gh-Pages]()
+### [Gh-Pages](https://tomsg03.github.io/ra-props-listing/)
 
+[![CircleCI](https://circleci.com/gh/TomSG03/ra-props-listing/tree/main.svg?style=svg)](https://circleci.com/gh/TomSG03/ra-props-listing/tree/main)
 
 ## [Домашнее задание к лекции «Props»](https://github.com/TomSG03/ra16-homeworks/tree/master/props)
 
